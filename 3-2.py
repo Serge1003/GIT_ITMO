@@ -10,4 +10,4 @@ for grade in x:
 
 for i in range(10): #выводим статистику в требуемом формате
     if stat[i] != 0: #через дефис или двоеточие
-        print(f'{балл[i]} : {stat[i]}')
+        print(f'{балл[i]} — {stat[i]}')
